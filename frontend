@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Volleyball Store</title>
+	<meta charset="utf-8">
+	<link rel="icon" href="logo-page.png">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+</head>
+<body>
+	<div class="page">
+		<header>
+			<div class="banner">
+				<div class="logo">
+					<!-- <img src="anh/logo.png" alt=""> -->
+					<p>Volleyball Store</p>
+				</div>
+				<div class="search">
+					<input class="form-control" type="" name="" placeholder="Tìm kiếm ...">
+				</div>
+				<div class="banner-menu">
+					<div class="buttonDiv">
+						<button class="btn btn-danger">VOLLEYBALL SHOP</button>
+						<!-- <button class="btn btn-danger"> Sản Phẩm Của Bạn<i class="fa fa-shopping-cart"></i></button> -->
+						
+					</div>
+				</div>
+			</div>
+			<div class="menu">
+				<a href="#">Trang chủ</a>
+				<a href="#">Top Đồ</a>
+				<a href="#">Lưu niệm</a>
+				<a href="#">Khuyến mãi</a>
+				<a href="#">Quần Áo</a>
+				<a href="#">Giày</a>
+				<a href="#">Bó Gối</a>
+				<a href="#"> Băng Cơ </a>
+			</div>
+		</header>
+		<div class="container">
+			<div class="article mt-3">
+				<div class="aside">
+					<div class="aside-list">Danh mục</div>
+					<a href="#">Áo Asics</a>
+					<a href="#">Áo Mizuno</a>
+					<a href="#">Giày Mizuno</a>
+					<a href="#">Giày Asics</a>
+					<a href="#">Băng Cơ</a>
+					<a href="#">Bó Gối</a>
+					<!-- <a href="#">Son </a> -->
+
+				</div>
+				<div class="content mt-3" >
+					<div class="item">
+						<img src="https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.15752-9/42197930_2272185436338759_7191997478172884992_n.jpg?_nc_cat=109&oh=fceae80ede429870e7580a0e6191c7fe&oe=5C5E4FF1" alt="">
+						<div class="price mt-5">
+							<p>Đồng Phục Asics</p>
+							<p>1.299.000đ</p>
+						</div>
+					</div>
+					<div class="item">
+						<img src="https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.15752-9/42311792_241961676493852_6866177208944164864_n.jpg?_nc_cat=100&oh=3abb906e979f920679acf90faec019a0&oe=5C31886D" alt="">
+						<div class="price mt-5">
+							<p>Áo Mizuno</p>
+							<p>799.000đ</p>
+						</div>
+					</div>
+					<div class="item">
+						<img src="https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.15752-9/42297442_1472910556142839_2058658377084436480_n.png?_nc_cat=106&oh=258d6bf095e82b684742b7f1567144f3&oe=5C1D606E" alt="">
+						<div class="price mt-5">
+							<p>MIZUNO TORNADO X</p>
+							<p>2.999.000đ</p>
+						</div>
+					</div>
+					<div class="item">
+						<img src="https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.15752-0/s261x260/42254148_1843355852450809_2148336362217013248_n.jpg?_nc_cat=105&oh=8fab48ddb61e4707d94b1ac952111336&oe=5C5F0C23" alt="">
+						<div class="price mt-5">
+							<p> ASICS GEL-NETBURNER BALLISTIC</p>
+							<p>2.699.000đ</p>
+						</div>
+					</div>
+					
+				</div>
+				<!-- <div class="aside">
+					<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDA_bfGE9JQwN1dU2HQ5bJL2ievzp5ih0Z6ehevAIqBN4EGutr" alt="">
+					<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDA_bfGE9JQwN1dU2HQ5bJL2ievzp5ih0Z6ehevAIqBN4EGutr" alt="">
+				</div> -->
+			</div>
+			<p class="cap mt-5">Sản phẩm hot</p>
+			<div class="showMore mb-5">
+				<div class="showMore-items">
+					<img src="https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.15752-9/42189849_532568017192051_2395592454012141568_n.jpg?_nc_cat=104&oh=292831d047d455ae5a1fc55d6f775538&oe=5C306DA4" alt="">
+					<div class="showMore-textzone">
+						<p>ASICS GEL-FORZA 5MT</p>
+						<p>3.999.000đ</p>
+					</div>
+				</div>
+				<div class="showMore-items">
+					<img src="https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.15752-9/41952242_383589575512260_315327397836619776_n.png?_nc_cat=106&oh=14850b9d2bb40eba5b589a13a6222c7d&oe=5C147C1C" alt="">
+					<div class="showMore-textzone">
+						<p>ASICS GEL VOLLEY ELITE</p>
+						<p>3.200.000đ</p>
+					</div>
+				</div>
+				<div class="showMore-items">
+					<img src="https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.15752-9/42203275_366062313934295_4687267190750052352_n.jpg?_nc_cat=105&oh=971a5cbd2b4956b69d5666c2b6f713da&oe=5C28971F" alt="">
+					<div class="showMore-textzone">
+						<p>ASICS CYBERZERO</p>
+						<p>3.200.000đ</p>
+					</div>
+				</div>
+				<div class="showMore-items">
+					<img src="https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.15752-0/s261x260/42313184_302940146959176_5087654925530300416_n.jpg?_nc_cat=100&oh=2523e07ede93d7f2d0aaf342096ae7e1&oe=5C1B148D" alt="">
+					<div class="showMore-textzone">
+						<p>MIZUNO WAVE LIGHTNING Z4</p>
+						<p>2.700.000đ</p>
+					</div>
+				</div>
+				<div class="showMore-items">
+					<img src="https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.15752-9/42217535_238776260142911_7792444858320289792_n.jpg?_nc_cat=103&oh=141d3e81680f2b4b6117292fc0df109f&oe=5C1F94A8" alt="">
+					<div class="showMore-textzone">
+						<p> GEL-NETBURNER BALLISTIC</p>
+						<p>2.699.000đ</p>
+					</div>
+				</div>
+				<div class="showMore-items">
+					<img src="https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.15752-9/42311021_237016920324729_7387765600807813120_n.jpg?_nc_cat=103&oh=723462d5ac7529e939f61c59d4118c7a&oe=5C5EAF22" alt="">
+					<div class="showMore-textzone">
+						<p>MIZUNO THUNDER BLADE</p>
+						<p>1.800.000đ</p>
+					</div>
+				</div>
+
+			</div>
+			<div class="advantages mb-5">
+				<div class="advantage">
+					<i class="fas fa-comment"></i> Tư vấn miễn phí
+				</div>
+				<div class="advantage">
+					<i class="fas fa-money-bill-alt"></i>
+
+					Thanh toán khi nhận hàng
+				</div>
+				<div class="advantage">
+					<i class="fas fa-people-carry"></i>
+
+					Giao hàng miễn phí 500m
+				</div>
+				<div class="advantage">
+					<i class="fab fa-amazon"></i>
+					Đảm bảo chất lượng
+				</div>
+			</div>
+			<div class="infos mb-5">
+				<div class="info">
+					<p>Thông tin</p>
+					<div class="info-tags">
+						<a href="">Về chúng tôi</a>
+						<a href="">Thông tin giao hàng</a>
+						<a href="">Chính sách bảo mật</a>
+						<a href="">Điều khoản sử dụng</a>
+					</div>
+				</div>
+				<div class="info">
+					<p>Chức năng khác</p>
+					<div class="info-tags">
+						<a href="">Chức năng khác</a>
+						<a href="">Thông tin giao hàng</a>
+						<a href="">Chính sách bảo mật</a>
+						<!-- <a href="">Điều khoản sử dụng</a> -->
+					</div>
+				</div>
+				<div class="info">
+					<p>Chăm sóc khách hàng</p>
+					<div class="info-tags">
+						<a href="">Chăm sóc khách hàng</a>
+						<a href="">Thông tin giao hàng</a>
+						<a href="">Chính sách bảo mật</a>
+						<a href="">Điều khoản sử dụng</a>
+					</div>
+				</div>
+				<div class="info">
+					<p>Thương hiệu</p>
+					<div class="info-tags">
+						<a href="">Thương hiệu</a>
+						<a href="">Thông tin giao hàng</a>
+						<a href="">Chính sách bảo mật</a>
+						<a href="">Điều khoản sử dụng</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<footer id="footer">
+		Volleyball Store-Số 1 Vĩnh Tuy - Hai Bà Trưng - Hà nội Copyright © 2018 
+		</footer>
+	</div>
+</body>
+</html>
